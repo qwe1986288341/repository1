@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61da3aeb-153d-49f3-ae93-64515ca5e582" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leyou" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z9JyG9znVvBaRWl9ktvaukTrUk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.leyou.mapper" />
+      <recent name="com.leyou.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\leyou\leyou-order\src\main\java\com\leyou" />
+      <recent name="D:\test\leyou\leyou-cat\src\main\java\cn\jiyun" />
+      <recent name="D:\test\leyou\leyou-common\src\main\java\cn\jiyun\common\pojo" />
+      <recent name="D:\test\leyou\leyou-auth\leyou-auth-common\src\main\java\cn\jiyun\entity" />
+      <recent name="D:\test\leyou\leyou-auth\leyou-auth-common\src\main\java\cn\jiyun\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.jiyun.config" />
+      <recent name="com.leyou.utils" />
+      <recent name="cn.jiyun.properties" />
+      <recent name="com.leyou.properties" />
+      <recent name="com.leyou.item.api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test\leyou\leyou-user" />
+      <recent name="D:\test\leyou\leyou-goods\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LeyouAuthApplication">
+    <configuration name="FastTest.testUpload" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ly-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.upload.com.leyou.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.upload.com.leyou.config" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.upload.com.leyou.config.FastTest" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyou-cat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jiyun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.jiyun.CarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyou-auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.LeyouAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouGoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ly-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.start.LeyouGoodsWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyou-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyou-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FastTest.testUpload" />
+      <item itemvalue="Spring Boot.LeyouGoodsWebApplication" />
+      <item itemvalue="Spring Boot.LeyouUserApplication" />
+      <item itemvalue="Spring Boot.LeyouOrderApplication" />
+      <item itemvalue="Spring Boot.CarApplication" />
+      <item itemvalue="Spring Boot.LeyouAuthApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LeyouOrderApplication" />
+        <item itemvalue="Spring Boot.LeyouAuthApplication" />
+        <item itemvalue="Spring Boot.CarApplication" />
+        <item itemvalue="Spring Boot.LeyouUserApplication" />
+        <item itemvalue="Spring Boot.LeyouGoodsWebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21174863" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SpringMvcView">
+    <option name="showControllers" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61da3aeb-153d-49f3-ae93-64515ca5e582" name="Default Changelist" comment="" />
+      <created>1584245628394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584245628394</updated>
+      <workItem from="1584245629562" duration="1900000" />
+      <workItem from="1584590017454" duration="2165000" />
+      <workItem from="1584674818890" duration="4526000" />
+      <workItem from="1584969484774" duration="3411000" />
+      <workItem from="1585016219022" duration="49000" />
+      <workItem from="1585016285977" duration="53000" />
+      <workItem from="1585016359451" duration="6536000" />
+      <workItem from="1585062191882" duration="1132000" />
+      <workItem from="1585106781240" duration="6799000" />
+      <workItem from="1585191760442" duration="990000" />
+      <workItem from="1585192771316" duration="8494000" />
+      <workItem from="1585211799222" duration="6943000" />
+      <workItem from="1585219150200" duration="3299000" />
+      <workItem from="1585270307006" duration="2931000" />
+      <workItem from="1585406420994" duration="208000" />
+      <workItem from="1585410842247" duration="60000" />
+      <workItem from="1585410932478" duration="533000" />
+      <workItem from="1585411485542" duration="372000" />
+      <workItem from="1585458438141" duration="1138000" />
+      <workItem from="1585535873313" duration="7243000" />
+      <workItem from="1585581730265" duration="4353000" />
+      <workItem from="1585625885996" duration="2227000" />
+      <workItem from="1585637702761" duration="595000" />
+      <workItem from="1585721909879" duration="4764000" />
+      <workItem from="1585799026600" duration="2429000" />
+      <workItem from="1586178042905" duration="10809000" />
+      <workItem from="1586226398375" duration="2502000" />
+      <workItem from="1586312385049" duration="19364000" />
+      <workItem from="1586349100608" duration="39000" />
+      <workItem from="1586405049289" duration="5532000" />
+      <workItem from="1587351574640" duration="2134000" />
+      <workItem from="1587378747689" duration="205000" />
+      <workItem from="1587388675998" duration="1113000" />
+      <workItem from="1587389914752" duration="609000" />
+      <workItem from="1587390556096" duration="1486000" />
+      <workItem from="1587393026643" duration="112000" />
+      <workItem from="1587393182035" duration="282000" />
+      <workItem from="1587393557906" duration="3467000" />
+      <workItem from="1587442390882" duration="371000" />
+      <workItem from="1587442786170" duration="1227000" />
+      <workItem from="1587444044516" duration="137000" />
+      <workItem from="1587444198740" duration="153000" />
+      <workItem from="1587444368881" duration="78000" />
+      <workItem from="1587444462183" duration="18000" />
+      <workItem from="1587444495908" duration="166000" />
+      <workItem from="1587444688200" duration="7437000" />
+      <workItem from="1587455072780" duration="2138000" />
+      <workItem from="1587457270073" duration="1736000" />
+      <workItem from="1587459104113" duration="1609000" />
+      <workItem from="1587460815423" duration="1344000" />
+      <workItem from="1587462190517" duration="8094000" />
+      <workItem from="1587471458053" duration="6159000" />
+      <workItem from="1587519730595" duration="870000" />
+      <workItem from="1587539453721" duration="3524000" />
+      <workItem from="1587553036163" duration="7222000" />
+      <workItem from="1587562547474" duration="3290000" />
+      <workItem from="1587566974196" duration="4211000" />
+      <workItem from="1587571406340" duration="2498000" />
+      <workItem from="1587573976064" duration="698000" />
+      <workItem from="1587638233309" duration="7718000" />
+      <workItem from="1587783757767" duration="576000" />
+      <workItem from="1587792547464" duration="14244000" />
+      <workItem from="1587814255002" duration="1346000" />
+      <workItem from="1587816118269" duration="9064000" />
+      <workItem from="1588927261292" duration="645000" />
+      <workItem from="1588927987261" duration="401000" />
+      <workItem from="1588928405728" duration="9000" />
+      <workItem from="1588928548611" duration="235000" />
+      <workItem from="1588929175449" duration="884000" />
+      <workItem from="1588930159659" duration="735000" />
+      <workItem from="1588930944957" duration="242000" />
+      <workItem from="1588931192146" duration="340000" />
+      <workItem from="1588931537218" duration="874000" />
+      <workItem from="1588932454046" duration="1031000" />
+      <workItem from="1588933500184" duration="317000" />
+      <workItem from="1588933820224" duration="34000" />
+      <workItem from="1588933865827" duration="795000" />
+      <workItem from="1588934664135" duration="690000" />
+      <workItem from="1588936314704" duration="1919000" />
+      <workItem from="1588940660551" duration="9000" />
+      <workItem from="1588940678067" duration="5110000" />
+      <workItem from="1588949655032" duration="3486000" />
+      <workItem from="1588953178236" duration="18387000" />
+      <workItem from="1588995050406" duration="111000" />
+      <workItem from="1588995195421" duration="806000" />
+      <workItem from="1588997209861" duration="1136000" />
+      <workItem from="1589004019737" duration="6300000" />
+      <workItem from="1589019510106" duration="200000" />
+      <workItem from="1589024940401" duration="6479000" />
+      <workItem from="1589032155853" duration="7477000" />
+      <workItem from="1589041033358" duration="12000" />
+      <workItem from="1589091566826" duration="1267000" />
+      <workItem from="1589098788466" duration="2031000" />
+      <workItem from="1589101522966" duration="8704000" />
+      <workItem from="1589127880239" duration="29000" />
+      <workItem from="1589127920611" duration="123000" />
+      <workItem from="1589128049841" duration="189000" />
+      <workItem from="1589128256185" duration="34000" />
+      <workItem from="1589128305992" duration="99000" />
+      <workItem from="1589128420191" duration="6542000" />
+      <workItem from="1589157714935" duration="3175000" />
+      <workItem from="1589177051897" duration="6152000" />
+      <workItem from="1589243476239" duration="4043000" />
+      <workItem from="1589299406430" duration="544000" />
+      <workItem from="1589300377706" duration="235000" />
+      <workItem from="1589301693743" duration="1002000" />
+      <workItem from="1589305403117" duration="1114000" />
+      <workItem from="1589306589636" duration="2778000" />
+      <workItem from="1589330954694" duration="15534000" />
+      <workItem from="1589381629576" duration="3702000" />
+      <workItem from="1589419357463" duration="5768000" />
+      <workItem from="1589437178295" duration="8668000" />
+      <workItem from="1589512611172" duration="621000" />
+      <workItem from="1589700086232" duration="11124000" />
+      <workItem from="1589712882889" duration="394000" />
+      <workItem from="1589713297357" duration="55000" />
+      <workItem from="1589713361389" duration="63000" />
+      <workItem from="1589713436511" duration="84000" />
+      <workItem from="1589713545439" duration="57000" />
+      <workItem from="1589713609641" duration="4442000" />
+      <workItem from="1589721293296" duration="340000" />
+      <workItem from="1589722302498" duration="7060000" />
+      <workItem from="1589762799378" duration="124000" />
+      <workItem from="1589766866237" duration="482000" />
+      <workItem from="1589784431200" duration="2981000" />
+      <workItem from="1589887010678" duration="823000" />
+      <workItem from="1589888567410" duration="8002000" />
+      <workItem from="1591495631416" duration="5287000" />
+      <workItem from="1592141864991" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1591497315803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1591497315803" />
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589182782560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589182782560" />
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1589701923278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589701923278" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589019642391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1589019642391" />
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588927841908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1588927841908" />
+    <state x="374" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588956171111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1588956171111" />
+    <state x="500" y="279" width="536" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589099132392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="279" width="536" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1589099132392" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589421093208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589421093208" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1589785378042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589785378042" />
+    <state width="1153" height="178" key="GridCell.Tab.0.bottom" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.0.center" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.0.left" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.0.right" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.1.bottom" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.1.center" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.1.left" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1153" height="178" key="GridCell.Tab.1.right" timestamp="1589900965485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1153" height="178" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589900965485" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1589008290553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589008290553" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1589008290553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1589008290553" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1589008290553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1589008290553" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1589008290553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1589008290553" />
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog" timestamp="1588927879848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1588927879848" />
+    <state x="431" y="116" key="NewModule_or_Project.wizard" timestamp="1589716669072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1589716669072" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1589716679738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589716679738" />
+    <state x="752" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1592141883849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="752" y="410" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592141883849" />
+    <state x="259" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589359488365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="259" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1589359488365" />
+    <state x="499" y="172" key="extract.method.dialog" timestamp="1589007055303">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="172" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1589007055303" />
+    <state x="356" y="72" key="new project wizard" timestamp="1589712456007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589712456007" />
+    <state x="472" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1589179881399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="45" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1589179881399" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589026159653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589026159653" />
+    <state x="659" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1589721329875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="659" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589721329875" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/leyou-search/src/test/java/GoodsTest.java</url>
+          <line>32</line>
+          <properties class="com.leyou.test.GoodsTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/com/leyou/service/GoodsSeravice.java</url>
+          <line>89</line>
+          <properties class="com.leyou.search.com.leyou.service.GoodsSeravice">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ly-search/src/test/java/GoodsTest.java</url>
+          <line>38</line>
+          <properties class="GoodsTest" method="buildGoods">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leyou-search/src/main/java/cn/leyou/SearchApplication/SearchApplication.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/com/leyou/service/GoodsSeravice.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/com/leyou/service/GoodsSeravice.java</url>
+          <line>315</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-search/src/main/java/com/leyou/search/com/leyou/controller/SearchController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ly-goods/src/main/java/com/leyou/start/com/leyou/listener/ItemListener.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leyou$FastTest_testUpload.ic" NAME="FastTest.testUpload Coverage Results" MODIFIED="1585458489751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.leyou.upload.com.leyou.config.*</FILTER>
+    </SUITE>
+  </component>
+</project>

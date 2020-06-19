@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9579a1bc-7229-461c-a312-1cd5daacd3a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFyCBt6NegMkgCOvvonkStKot9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js/widget" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test\leyou-portal\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\leyou-portal\js\widget" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.pay.html">
+    <configuration name="cart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/leyou-portal/cart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="getOrderInfo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/leyou-portal/getOrderInfo.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="pay.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/leyou-portal/pay.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.pay.html" />
+        <item itemvalue="JavaScript Debug.getOrderInfo.html" />
+        <item itemvalue="JavaScript Debug.cart.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9579a1bc-7229-461c-a312-1cd5daacd3a3" name="Default Changelist" comment="" />
+      <created>1586345506432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586345506432</updated>
+      <workItem from="1586345513745" duration="141000" />
+      <workItem from="1586345680369" duration="2733000" />
+      <workItem from="1586349886550" duration="459000" />
+      <workItem from="1586424693430" duration="1761000" />
+      <workItem from="1586427667926" duration="683000" />
+      <workItem from="1587448367401" duration="1597000" />
+      <workItem from="1587455072203" duration="6772000" />
+      <workItem from="1587519459740" duration="2241000" />
+      <workItem from="1587553012983" duration="302000" />
+      <workItem from="1587553346631" duration="9900000" />
+      <workItem from="1587637694231" duration="15209000" />
+      <workItem from="1587792884308" duration="8687000" />
+      <workItem from="1587814254128" duration="717000" />
+      <workItem from="1587816132811" duration="2524000" />
+      <workItem from="1587868362399" duration="605000" />
+      <workItem from="1588934902177" duration="81000" />
+      <workItem from="1588936315096" duration="2448000" />
+      <workItem from="1588940698151" duration="5776000" />
+      <workItem from="1588949649424" duration="9466000" />
+      <workItem from="1588997216035" duration="766000" />
+      <workItem from="1589004011756" duration="1439000" />
+      <workItem from="1589024909403" duration="1279000" />
+      <workItem from="1589031791649" duration="3339000" />
+      <workItem from="1589091632004" duration="1327000" />
+      <workItem from="1589101522966" duration="4334000" />
+      <workItem from="1589157677087" duration="805000" />
+      <workItem from="1589176546773" duration="2165000" />
+      <workItem from="1589243433580" duration="907000" />
+      <workItem from="1589299402927" duration="546000" />
+      <workItem from="1589300380535" duration="231000" />
+      <workItem from="1589301682131" duration="1014000" />
+      <workItem from="1589305412192" duration="481000" />
+      <workItem from="1589331032383" duration="9707000" />
+      <workItem from="1589381557218" duration="4646000" />
+      <workItem from="1589419128315" duration="3304000" />
+      <workItem from="1589437122318" duration="3974000" />
+      <workItem from="1589512582612" duration="648000" />
+      <workItem from="1589700011407" duration="9614000" />
+      <workItem from="1589721291990" duration="498000" />
+      <workItem from="1589722308139" duration="7038000" />
+      <workItem from="1589785384550" duration="1486000" />
+      <workItem from="1589881808211" duration="3254000" />
+      <workItem from="1589888565112" duration="11488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588995251807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588995251807" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1589888623533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589888623533" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1589881848817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589881848817" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589727497354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589727497354" />
+  </component>
+</project>

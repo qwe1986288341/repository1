@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "leyou",
+      "type": "com.leyou.pojo.Sms",
+      "sourceType": "com.leyou.pojo.Sms"
+    }
+  ],
+  "properties": [
+    {
+      "name": "leyou.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.leyou.pojo.Sms"
+    },
+    {
+      "name": "leyou.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.leyou.pojo.Sms"
+    },
+    {
+      "name": "leyou.sign-name",
+      "type": "java.lang.String",
+      "sourceType": "com.leyou.pojo.Sms"
+    },
+    {
+      "name": "leyou.template-code",
+      "type": "java.lang.String",
+      "sourceType": "com.leyou.pojo.Sms"
+    }
+  ],
+  "hints": []
+}
